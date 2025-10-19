@@ -1,12 +1,12 @@
-# Name: 
+# Name: Sean Toppin
 
 ## About Me
-* School Email: 
-* Dream Career: 
-* Hidden Talent: 
+* School Email: toppins9254@durhamtech.edu
+* Dream Career: Someone who owns a bunch of assets and gets the dividends from it 
+* Hidden Talent: Creative Writing 
 
 ## Course Information
-* Semester: 
+* Semester: Second I believe
 * Course Name: CSC 118 - Swift Fundamentals I
 * Institution: [Durham Technical Community College](https://www.durhamtech.edu/)
 * Textbook: [Develop in Swift Fundamentals Xcode 15](https://books.apple.com/us/book/develop-in-swift-fundamentals/id6468967906)
