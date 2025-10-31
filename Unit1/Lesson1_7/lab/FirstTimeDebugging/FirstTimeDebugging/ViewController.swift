@@ -8,6 +8,8 @@ class ViewController: UIViewController {
         let sample = "sample"
         print(sample)
         
+        // meaningless change
+        
         if false {
             print("Will this line of code ever be reached?")
             someMethod()
