@@ -17,7 +17,7 @@ let name = "Sean Toppin"
  */
 
 
-let favoriteQuote = "My favorite quote is \"is mayonnaise an instrument.\""
+let favoriteQuote = "My favorite quote is \"is mayonnaise an instrument?\""
 print(favoriteQuote)
 
 
